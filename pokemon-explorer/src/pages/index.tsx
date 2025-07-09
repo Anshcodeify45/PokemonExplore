@@ -29,7 +29,7 @@ export default function Home() {
     pokemon.name.toLowerCase().includes(search.toLowerCase())
   );
 
-  // updated
+  // updated file
   return (
     <div className="min-h-screen bg-gradient-to-br from-yellow-100 to-pink-200 py-8 px-4 text-gray-900">
       <div className="max-w-6xl mx-auto">
