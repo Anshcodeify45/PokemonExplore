@@ -1,4 +1,6 @@
 Pokémon Explorer
+
+
 Explore detailed information about Pokémon, including images, stats, and types—all fetched from the PokéAPI. Built with Next.js, TypeScript, and Tailwind CSS, this app delivers a responsive and engaging Pokédex experience.
 
 🔗 Live Site: https://pokemonexplore.onrender.com
